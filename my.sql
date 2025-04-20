@@ -1,2 +1,2 @@
 select 
-insert
+delete
